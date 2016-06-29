@@ -32,6 +32,9 @@
 
 .box {
   background: #1CEAF4;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
   width: 50%;
   height: 200px;
 }
